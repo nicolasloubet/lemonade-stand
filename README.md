@@ -7,9 +7,11 @@ The categories are not mutually exclusive. For example, a project might have a f
 
 # Hello les amis
 
+```
 if (isAwesome){
 return true
 }
+```
 
  if (isAwesome){
       return true
