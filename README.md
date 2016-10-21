@@ -28,11 +28,11 @@ APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License 
 
 ## Donation button
 
-#### Pros
+###Pros
 * Few strings attached
 * Little work involved: "set it and forget it"
 
-####Cons
+###Cons
 * Usually not much money unless you have dedicated fundraising efforts
 * Need a legal entity to donate to (ex. [SFC](http://sfconservancy.org), [OpenCollective](http://opencollective.com) are fiscal sponsors for this purpose). Harder for individuals or international donations to manage
 * Sometimes not clear who “deserves” money in a project or how it gets distributed
