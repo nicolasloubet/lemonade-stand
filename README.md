@@ -5,19 +5,6 @@ Below I've listed every way I know of that people get paid for open source work,
 
 The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. The purpose of this guide is to provide an exhaustive list of all the ways you can get paid, so that you can figure out what works best for you.
 
-# Hello les amis
-
-```
-if (isAwesome){
-return true
-}
-```
-
-if (isAwesome){
-      return true
-    }
-
-
 ---
 
 # Table of Contents
