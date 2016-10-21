@@ -13,12 +13,12 @@ return true
 }
 ```
 
- if (isAwesome){
+if (isAwesome){
       return true
     }
 
----
 
+---
 
 # Table of Contents
 1. [Donation button](#donation-button)
